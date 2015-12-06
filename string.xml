@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LetMeDrive</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="name">
+        <item>Abhishek</item>
+        <item>Ajay</item>
+        <item>Hiritik</item>
+        <item>John </item>
+        <item>Kareena </item>
+        <item>Preeti </item>
+        <item>Ranveer </item>
+        <item>Salman </item>
+        <item>Shahid </item> 
+        <item>Shahrukh </item>
+        <item>Sidharth </item>    
+        </string-array>
+        
+    <string-array name="number">
+        <item>********26</item>
+        <item>********32</item>
+        <item>********24</item>
+        <item>********45</item>
+        <item>********55</item>
+        <item>********35</item>
+        <item>********15</item>
+        <item>********17</item>
+        <item>********89</item> 
+        <item>********99</item>
+        <item>********66</item>    
+        </string-array>
+
+</resources>
